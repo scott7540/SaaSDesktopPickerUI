@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly select and launch prompts with a sleek, modern interface designed for productivity, catering to professionals seeking efficiency in their workflow.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
